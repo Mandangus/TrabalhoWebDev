@@ -18,6 +18,8 @@ Relatório do Projeto:
   Os dados de cada vídeo-aula incluem: nome, id, Thumbnail, descrição, preço, quantidade em estoque, quantidade vendida.  
   
   Venda de vídeo-aulas: As licenças para assistir video-aulas são selecionadas, sua quantidade escolhida e incluída no carrinho. Licenças são compradas usando o número de um cartão de crédito (qualquer número é aceitado pelo sistema). A quantidade de licenças vendidas é subtraída da quantidade em estoque e adicionada à quantidade vendida. Carrinhos são esvaziados somente no pagamanto ou pelos clientes.  
+  Gerenciamento de Produtos/Serviços: Administradores podem criar/atualizar/ler/deletar novos produtos e serviços.
+  Pŕevia de video-aula: será possível que Clientes e Administradores visualizem a prévia de uma aula 
   
 
 2.Descrição do Projeto  
