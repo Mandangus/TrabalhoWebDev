@@ -31,6 +31,8 @@ Relatório do Projeto:
 - O sistema deve ser responsivo e prover boa usabilidade e requisitos de acessibilidade
 
 ## Descrição do Projeto
+- Neste projeto, vamos implementar uma loja de vídeos da lenda Cláudio Possani! O aluno terá um perfil e poderá navegar nas diversas categorias de vídeos à venda.
+ Ao comprar um vídeo o aluno receberá um link por email contendo a aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento! 
 ## Comentários sobre o Código
 ## Plano de Testes   
 ## Resultado dos Testes  
@@ -40,3 +42,4 @@ Relatório do Projeto:
 ## Alunos
  - Rafael Corona  |  Número USP: 4769989
  - Victor Gomes |  Número USP: 11275168
+ - Antonio Rodrigues Rigolino | Número USP: 11795791
