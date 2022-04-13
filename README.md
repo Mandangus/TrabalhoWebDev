@@ -39,4 +39,4 @@ Relatório do Projeto:
 ## Comentários adicionais  
 ## Alunos
  - Rafael Corona  |  Número USP: 4769989
-
+ - Victor Gomes |  Número USP: 11275168
