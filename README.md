@@ -38,5 +38,5 @@ Relatório do Projeto:
 ## Problemas encontrados  
 ## Comentários adicionais  
 ## Alunos
- - Rafael Corona Número USP: 4769989
+ - Rafael Corona  |  Número USP: 4769989
 
