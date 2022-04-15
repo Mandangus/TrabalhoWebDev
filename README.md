@@ -6,6 +6,7 @@ Trabalho de Desenvolvimento Web - ICMC - 1 semestre - 2022 - Grupo 28
 Relatório do Projeto:
 
 ## Sumário
+* [Grupo 28](#grupo-28)
 * [Requisitos](#requisitos)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Comentários sobre o Código](#comentários-sobre-o-código)
@@ -13,9 +14,12 @@ Relatório do Projeto:
 * [Resultado dos Testes](#resultado-dos-testes)
 * [Tutorial da Instalação da Aplicação](#tutorial-da-instalação-da-aplicação)
 * [Problemas encontrados](#problemas-encontrados)
-* [Comentários adicionais](#comentários-adicionais)
-* [Alunos](#alunos)
-<!-- * [License](#license) -->
+* [Comentários adicionais](#comentários-adicionais)  
+
+## Grupo 28
+ - Rafael Corona  |  Número USP: 4769989
+ - Victor Gomes |  Número USP: 11275168
+ - Antonio Rodrigues Rigolino | Número USP: 11795791
 
 
 ## Requisitos
@@ -32,14 +36,13 @@ Relatório do Projeto:
 
 ## Descrição do Projeto
 - Neste projeto, vamos implementar uma loja de vídeos da lenda Cláudio Possani! O aluno terá um perfil e poderá navegar nas diversas categorias de vídeos à venda.
- Ao comprar um vídeo o aluno receberá um link por email contendo a aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento! 
+ Ao comprar um vídeo o aluno receberá um link por email contendo a aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento!
+ 
+ *(Colocar aqui o diagrama de navegação e mockups das paginas)*
+ 
 ## Comentários sobre o Código
 ## Plano de Testes   
 ## Resultado dos Testes  
 ## Tutorial da Instalação da Aplicação  
 ## Problemas encontrados  
 ## Comentários adicionais  
-## Alunos
- - Rafael Corona  |  Número USP: 4769989
- - Victor Gomes |  Número USP: 11275168
- - Antonio Rodrigues Rigolino | Número USP: 11795791
