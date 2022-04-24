@@ -29,7 +29,7 @@ Relatório do Projeto:
 - Os dados de Administrador incluem: nome, id, celular, email, senha. 
 - Os dados de cada cliente incluem: nome, id, endereço, celular, email, senha, foto.  
 - Os dados de cada vídeo-aula incluem: nome, id, foto da prévia, descrição, preço, quantidade vendida, URL para o vídeo.
-- Venda de vídeo-aulas: As licenças para assistir video-aulas são selecionadas, sua quantidade escolhida e incluída no carrinho. Licenças são compradas usando o número de um cartão de crédito (qualquer número é aceitado pelo sistema). A quantidade de licenças vendidas é adicionada à quantidade vendida. Carrinhos são esvaziados somente no pagamanto ou pelos clientes. 
+- Venda de vídeo-aulas: As licenças para assistir video-aulas são selecionadas, e incluídas no carrinho. Licenças são compradas usando o número de um cartão de crédito (qualquer número é aceitado pelo sistema). A quantidade de licenças vendidas é adicionada à quantidade vendida. Carrinhos são esvaziados somente no pagamanto ou pelos clientes. 
 - Gerenciamento de Produtos/Serviços: Administradores podem criar/atualizar/ler/deletar novos produtos e serviços.
 - Prévia de video-aula: será possível que Clientes e Administradores visualizem a prévia de uma aula antes de realizar a compra da mesma
 - O sistema deve ser responsivo e prover boa usabilidade e requisitos de acessibilidade
@@ -39,7 +39,7 @@ Relatório do Projeto:
  Ao comprar um vídeo o aluno receberá acesso à aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento!
 
 #### Funcionalidades
- - Usuários poderão
+ - Usuários poderão comprar 
 
 #### Informações armazenadas no servidor
  - Dados de usuário cliente: (nome, id, endereço, celular, email, senha, foto)
