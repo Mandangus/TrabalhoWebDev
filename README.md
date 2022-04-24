@@ -46,6 +46,10 @@ Relatório do Projeto:
  *https://www.figma.com/file/0C5hczX8YT6wsqRWEi6mxq/Prot%C3%B3tipo-grupo-28?node-id=4%3A0*
  
 ## Comentários sobre o Código
+- O código foi estruturado da seguinte maneira:
+   - Arquivos css: os arquivos que vão adicionar estilo para as páginas html, temos um para cada página. Além do css individual temos um arquivo de reset para resetar as configurações padrão e um arquivo style para o footer e header!
+   - Arquivos html: para cada página temos um arquivo html contendo seu conteúdo
+   - imagens: imagens usadas nas páginas
 ## Plano de Testes   
 Planejamos testar a consistência e responsividade do sistema em diversos dispositivos e navegadores
 ## Resultado dos Testes  
