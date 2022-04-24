@@ -28,7 +28,7 @@ Relatório do Projeto:
      - Clientes são usuários que acessam o sistema para comprar produtos/serviços 
 - Os dados de Administrador incluem: nome, id, celular, email, senha. 
 - Os dados de cada cliente incluem: nome, id, endereço, celular, email, senha, foto.  
-- Os dados de cada vídeo-aula incluem: nome, id, foto da prévia, descrição, preço, quantidade vendida.
+- Os dados de cada vídeo-aula incluem: nome, id, foto da prévia, descrição, preço, quantidade vendida, URL para o vídeo.
 - Venda de vídeo-aulas: As licenças para assistir video-aulas são selecionadas, sua quantidade escolhida e incluída no carrinho. Licenças são compradas usando o número de um cartão de crédito (qualquer número é aceitado pelo sistema). A quantidade de licenças vendidas é adicionada à quantidade vendida. Carrinhos são esvaziados somente no pagamanto ou pelos clientes. 
 - Gerenciamento de Produtos/Serviços: Administradores podem criar/atualizar/ler/deletar novos produtos e serviços.
 - Prévia de video-aula: será possível que Clientes e Administradores visualizem a prévia de uma aula antes de realizar a compra da mesma
@@ -38,12 +38,19 @@ Relatório do Projeto:
 - Neste projeto, vamos implementar uma loja de vídeos da lenda Cláudio Possani! O aluno terá um perfil e poderá navegar nas diversas categorias de vídeos à venda.
  Ao comprar um vídeo o aluno receberá acesso à aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento!
 
-- The functionalities you are going to implement.  
+#### Funcionalidades
+ - Usuários poderão
 
-- The information you are going to save in the server (no need to decide how that information will be saved).  
-- É possível encontrar os mockups para a interface seguindo o link abaixo ou na pasta [./mockups](../blob/master/LICENSE). Usando o figma, é possível simular o diagrama de navegação e ver a mudança de página interativamente.  
+#### Informações armazenadas no servidor
+ - Dados de usuário cliente: (nome, id, endereço, celular, email, senha, foto)
+ - Dados de usuário administrador: (nome, id, celular, email, senha)
+ - Dados de cada vídeo aula: (nome, id, foto da prévia, descrição, preço, quantidade vendida, URL para o vídeo)
+ - Total de aulas vendidas
+
+#### Mockups
+É possível encontrar os mockups para a interface seguindo o link abaixo ou na pasta [./mockups](../tree/master/Mockups). Usando o figma, é possível simular o diagrama de navegação e ver a mudança de página interativamente.  
  
- *https://www.figma.com/file/0C5hczX8YT6wsqRWEi6mxq/Prot%C3%B3tipo-grupo-28?node-id=4%3A0*
+ - *https://www.figma.com/file/0C5hczX8YT6wsqRWEi6mxq/Prot%C3%B3tipo-grupo-28?node-id=4%3A0*
  
 ## Comentários sobre o Código
 - O código foi estruturado da seguinte maneira:
