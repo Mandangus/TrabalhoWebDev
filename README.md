@@ -37,10 +37,11 @@ Relatório do Projeto:
 ## Descrição do Projeto
 - Neste projeto, vamos implementar uma loja de vídeos da lenda Cláudio Possani! O aluno terá um perfil e poderá navegar nas diversas categorias de vídeos à venda.
  Ao comprar um vídeo o aluno receberá acesso à aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento!
- -The functionalities you are going to implement.
 
--The information you are going to save in the server (no need to decide how that information will be saved).
- -É possível encontrar os mockups para a interface seguindo o link abaixo ou na pasta [./mockups](../blob/master/LICENSE). Usando o figma, é possível simular o diagrama de navegação e ver a mudança de página interativamente.  
+- The functionalities you are going to implement.  
+
+- The information you are going to save in the server (no need to decide how that information will be saved).  
+- É possível encontrar os mockups para a interface seguindo o link abaixo ou na pasta [./mockups](../blob/master/LICENSE). Usando o figma, é possível simular o diagrama de navegação e ver a mudança de página interativamente.  
  
  *https://www.figma.com/file/0C5hczX8YT6wsqRWEi6mxq/Prot%C3%B3tipo-grupo-28?node-id=4%3A0*
  
