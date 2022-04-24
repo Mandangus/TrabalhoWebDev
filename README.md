@@ -38,7 +38,7 @@ Relatório do Projeto:
 - Neste projeto, vamos implementar uma loja de vídeos da lenda Cláudio Possani! O aluno terá um perfil e poderá navegar nas diversas categorias de vídeos à venda.
  Ao comprar um vídeo o aluno receberá um link por email contendo a aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento!
  
- *(Colocar aqui o diagrama de navegação e mockups das paginas)*
+ *https://www.figma.com/file/0C5hczX8YT6wsqRWEi6mxq/Prot%C3%B3tipo-grupo-28?node-id=4%3A0*
  
 ## Comentários sobre o Código
 ## Plano de Testes   
