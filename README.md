@@ -38,8 +38,9 @@ Relatório do Projeto:
 - Neste projeto, vamos implementar uma loja de vídeos da lenda Cláudio Possani! O aluno terá um perfil e poderá navegar nas diversas categorias de vídeos à venda.
  Ao comprar um vídeo o aluno receberá acesso à aula. E poderá aproveitar 50 minutos de pura adrenalina e conhecimento!
 
-#### Funcionalidades
- - Usuários poderão comprar 
+#### Funcionalidade extra
+ Qualquer cliente poderá visualizar uma prévia de cada aula, para que possa decidir se quer comprá-la ou não
+
 
 #### Informações armazenadas no servidor
  - Dados de usuário cliente: (nome, id, endereço, celular, email, senha, foto)
