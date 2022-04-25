@@ -49,7 +49,7 @@ Relatório do Projeto:
  - Total de aulas vendidas
 
 #### Mockups
-É possível encontrar os mockups para a interface seguindo o link abaixo ou na pasta [./mockups](../tree/master/Mockups). Usando o figma, é possível simular o diagrama de navegação e ver a mudança de página interativamente.  
+É possível encontrar os mockups para a interface seguindo o link abaixo ou na pasta [./mockups](../master/Mockups). Usando o figma, é possível simular o diagrama de navegação e ver a mudança de página interativamente.  
  
  - *https://www.figma.com/file/0C5hczX8YT6wsqRWEi6mxq/Prot%C3%B3tipo-grupo-28?node-id=4%3A0*
  
